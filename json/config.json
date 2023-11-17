@@ -1,0 +1,6 @@
+{
+    "input_path": "/path/to/pdf/or/directory",
+    "output_path": "/path/to/output/directory",
+    "libraries": ["pypdf2", "pdfminer"],
+    "log_level": "INFO"
+}
