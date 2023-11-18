@@ -20,7 +20,7 @@ This project facilitates the extraction of text from PDF files using various Pyt
   - __init__.py
   - utils.py
 - json/
-  - params.json
+  - config.json
 ```
 
 ---
